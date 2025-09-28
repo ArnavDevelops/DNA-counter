@@ -7,5 +7,5 @@ You can input a Genetic Sequence for instance, "ATGCTAGGCTTACG", and the program
 ## To-do
 [X] Input and counting
 [X] Calculation of GC and AT content
-[] UI
-[] Program i.e, .exe
+[X] UI
+[X] Program i.e, .exe
